@@ -1,41 +1,50 @@
 Crypto Tracker
 
-Crypto Tracker is a React-based web application that displays real-time cryptocurrency prices and market data using a public crypto API.
-The project focuses on API integration, state management, and responsive UI development.
+Crypto Tracker is a React-based web application that shows real-time cryptocurrency prices and market data using a public crypto API.
 
-Features
+✨ Features
 
-Real-time crypto price tracking
+🔹 Real-time cryptocurrency price tracking
+🔹 Supports multiple cryptocurrencies
+🔹 Interactive price charts
+🔹 Fast performance using Vite
+🔹 Global state management with React Context API
+🔹 Responsive UI with loading states
 
-Multiple cryptocurrency support
+🛠 Tech Stack
 
-Interactive price charts
+⚙️ React.js
+⚙️ Vite
+⚙️ JavaScript (ES6+)
+⚙️ React Context API
+⚙️ Public Cryptocurrency REST API
 
-Fast performance with Vite
+⚙️ Installation
 
-Global state management using React Context API
+📥 Clone the repository
 
-Responsive UI with loading states
-
-Tech Stack
-
-React.js
-
-Vite
-
-JavaScript (ES6+)
-
-React Context API
-
-Public Cryptocurrency REST API
-
-Installation
 git clone https://github.com/om56/Crypto-Tracker.git
+
+
+📂 Go to project folder
+
 cd Crypto-Tracker
+
+
+📦 Install dependencies
+
 npm install
+
+
+🚀 Run the project
+
 npm run dev
 
-Author
+👤 Author
 
-Om Karmakar
-GitHub: https://github.com/om56
+🙋‍♂️ Om Karmakar
+🔗 GitHub: https://github.com/om56
+
+📄 License
+
+📜 MIT License
